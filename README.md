@@ -1,13 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kanika</h1>
-<h3 align="center">A budding developer from India</h3>
-
-- 🌱 I’m currently learning **Web Development**
-
-- 👯 I’m looking to collaborate on **projects in AI/ML Domain**
-
-- 💬 Ask me about **Python,EDA,ML/AI**
-
-- 📫 How to reach me **kanikamalhans@gmail.com**
+<h3 align="center">A developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
